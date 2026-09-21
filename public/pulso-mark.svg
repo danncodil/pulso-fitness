@@ -1,5 +1,6 @@
-<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
   <title id="title">Pulso Fitness</title>
-  <rect x="1" y="1" width="62" height="62" rx="15" fill="#102420"/>
-  <path d="M9 32H20L24.5 25L29.5 39L35 21L40.5 39L45 32H55" stroke="#C8F56A" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect width="1024" height="1024" rx="142" fill="#191C1B"/>
+  <rect x="38" y="38" width="948" height="948" rx="162" fill="#0A2722" stroke="#263C36" stroke-width="12"/>
+  <path d="M150 520H330L425 345L512 690L612 270L708 520H875" stroke="#C8F56A" stroke-width="62" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
