@@ -315,7 +315,7 @@ export default function Home() {
 
   return <div className="app-shell">
     <aside className={`sidebar ${menuOpen ? "open" : ""}`}>
-      <div className="brand"><span className="brand-mark"><HeartPulse size={21} strokeWidth={2.6}/></span><span>pulso<span className="brand-dot">.</span></span></div>
+      <div className="brand"><span className="brand-mark"><img src="/pulso-mark.svg" alt="" /></span><span>pulso<span className="brand-dot">.</span></span></div>
       <div className="sidebar-eyebrow">SEU ESPAÇO</div>
       <nav aria-label="Navegação principal" className="nav-list">{nav.map(({id,label,icon:Icon}) => <button key={id} className={`nav-item ${section===id ? "active" : ""}`} onClick={() => go(id)} aria-current={section===id ? "page" : undefined}><Icon size={18}/><span>{label}</span>{section===id && <span className="nav-active-indicator"/>}</button>)}</nav>
       <div className="sidebar-bottom"><div className="sidebar-note"><Sparkles size={18}/><strong>Consistência vence pressa.</strong><span>Um passo de cada vez.</span></div><div className="sidebar-foot">PULSO FITNESS · 2026</div></div>

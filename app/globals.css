@@ -34,3 +34,6 @@
 .privacy-page{min-height:100vh;background:#f5f7f3;padding:48px 20px 80px}.privacy-wrap{max-width:800px;margin:0 auto}.privacy-back{display:inline-block;color:#346a3b;font-size:13px;font-weight:700;text-decoration:none;margin-bottom:55px}.privacy-back:hover{text-decoration:underline}.privacy-wrap h1{font:600 clamp(39px,6vw,60px)/1.06 'Space Grotesk Variable',sans-serif;letter-spacing:-2px;margin:14px 0 20px}.privacy-lead{font-size:18px;color:#536a59;line-height:1.65;margin:0 0 31px}.privacy-wrap section{border-top:1px solid #d8e4d7;padding:25px 0}.privacy-wrap section h2{font:600 22px 'Space Grotesk Variable',sans-serif;letter-spacing:-.4px;margin:0 0 9px}.privacy-wrap section p{color:#4c6453;font-size:14px;line-height:1.75;margin:0 0 11px}.privacy-wrap section a{color:#2b6837;font-weight:700}.privacy-wrap code{font-size:12px;background:#e8f1e2;padding:2px 5px;border-radius:4px}.privacy-update{font-size:12px;color:#718576;margin-top:23px}
 
 
+/* Logo mark generated for Pulso Fitness. */
+.brand-mark{background:transparent}
+.brand-mark img{width:37px;height:37px;object-fit:contain;display:block}
